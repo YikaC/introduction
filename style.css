@@ -151,3 +151,19 @@ a:hover{
   font-size:0.75rem;
   padding:20px 0;
 }
+
+/* Testimonials */
+#testimonials {
+  background-color: #ef8172;
+}
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20;
+}
